@@ -1,0 +1,18 @@
+ctrl + P 跳到文件
+ctrl + G 跳到指定行
+ctrl + Shif + O 跳到Symbol
+
+ctrl + h 查找替换
+
+shift + Alt + F 格式化文档
+
+F12 转到定义
+
+Shift + F12 : Show References
+
+Ctrl + N 新建文件
+
+Shift + Alt + A 区块注释 /* */
+
+
+
