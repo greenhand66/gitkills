@@ -41,3 +41,4 @@ IPA:Intelligent Parking Assist智能停车辅助
 
 车辆识别代码（VIN），VIN是英文Vehicle Identification Number（车辆识别码）
 IMR是中断屏蔽寄存器。它用于存放中断控制字,其中为1的位表示对应的中断请求输入将被屏蔽
+FAPK 一键泊车辅助系统
